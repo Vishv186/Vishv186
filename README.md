@@ -29,7 +29,7 @@ Git • GitHub • Docker
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 
 ### 🏥 Hospify – Hospital Management System ([LINK](https://github.com/Vishv186/Hospify_SpringBoot))
 **Java | Spring Boot | MySQL**  
