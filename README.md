@@ -31,7 +31,7 @@ Git • GitHub • Docker
 
 🚀 Projects
 
-### 🏥 Hospify – Hospital Management System ([LINK]([https://github.com/Vishv186/HospifySpringBoot](https://github.com/Vishv186/Hospify_SpringBoot)))
+### 🏥 Hospify – Hospital Management System ([LINK](https://github.com/Vishv186/Hospify_SpringBoot))
 **Java | Spring Boot | MySQL**  
 Backend-driven hospital management system with RESTful APIs and layered architecture,  
 built to efficiently manage patients, doctors, and appointments.
