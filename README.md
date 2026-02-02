@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vishv Nagde 👋</h1>
+<h1 align="center">Vishv Nagde</h1>
 <h3 align="center">Software Developer | Backend & Full-Stack Enthusiast</h3>
 
 ---
@@ -29,11 +29,21 @@ Git • GitHub • Docker
 
 ---
 
-## 🚀 Featured Projects
+🚀 Projects
 
-### 🏥 Hospify – Hospital Management System
+### 🏥 Hospify – Hospital Management System ([LINK](https://github.com/Vishv186/HospifySpringBoot))
 **Java | Spring Boot | MySQL**  
-Backend-driven hospital management system built with RESTful APIs and layered architecture,  
-designed to manage patients, doctors, and appointments efficiently.
+Backend-driven hospital management system with RESTful APIs and layered architecture,  
+built to efficiently manage patients, doctors, and appointments.
 
-🔗 **Repository:** https://github.com/Vishv186/HospifySpringBoot
+---
+
+### 💼 HireHub – Job & Hiring Platform ([LINK](https://github.com/Vishv186/HireHub))
+**ReactJs | Node.js | ExpressJs | TypeScript | PostgreSQL**  
+Scalable hiring platform focused on clean backend design and secure data handling,  
+with structured APIs for recruiters and job seekers.
+
+---
+
+
+⭐ *Focused on building reliable backend systems with clean and scalable architecture.*
